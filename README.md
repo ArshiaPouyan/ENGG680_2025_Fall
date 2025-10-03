@@ -1,6 +1,17 @@
 # ENGG680_2025_fall
 This repository contains materials and assignments for the ENGG680 course in the Fall 2025 semester.
 
+# Names & UCIDs
+- Sarah Hargrave (30118828)
+- Gabrielle Givelichian (30132747)
+- Carla Tamariz-Martel Herrera (30146292)
+- Arshia Pouyan (30288859)
+
+# Assignment 1 Summary
+
+
+
+
 ## Table of Contents
 - [Introduction to Python](#introduction-to-python)
 - [Assignments](#assignments)
