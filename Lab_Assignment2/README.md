@@ -1,3 +1,6 @@
 This is a sample README.md file. Please edit according to the instructions.
 
-Thanks :D
+Sarah Hargrave (30118828)
+Gabrielle Givelichian (30132747)
+Carla Tamariz-Martel Herrera (30146292)
+Arshia Pouyan (30288859)
